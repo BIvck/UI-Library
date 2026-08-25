@@ -5648,5 +5648,5 @@ do
 	end
 end
 
-return Library
 getgenv().Library = Library
+return Library
