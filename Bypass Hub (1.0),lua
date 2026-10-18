@@ -3035,6 +3035,7 @@ do
 					BorderSizePixel = 0,
 					AutomaticSize = Enum.AutomaticSize.XY,
 					TextSize = 14,
+					RichText = true,
 					BackgroundColor3 = FromRGB(255, 255, 255),
 				})
 				Items["Text"]:AddToTheme({ TextColor3 = "Text" })
